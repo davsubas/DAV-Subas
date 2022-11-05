@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subas Roy</h1>
-<h3 align="center">A professional Web Designer and WordPress Developer Professional Expert.</h3>
+<h3 align="center">HTML | CSS | BOOTSTRAP | JAVASCRIPT | JQURY | PHP | Wix | WordPress | Squarespace | Shopify | GoDaddy Web Design and Development Professional expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtools72&label=Profile%20views&color=0e75b6&style=flat" alt="devtools72" /> </p>
 
