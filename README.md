@@ -1,4 +1,3 @@
-<img src="https://www.linkedin.com/in/subasroy9504/overlay/background-image/" alt="devtools72" />
 <h1 align="center">Hi 👋, I'm Subas Roy</h1>
 <h3 align="left">I am a Professional  Shopify | Squarespace | Wix | GoDaddy | WordPress Web Design and Development expert</h3>
 
