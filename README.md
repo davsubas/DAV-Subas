@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/devtool25784503" target="blank"><img src="https://img.shields.io/twitter/follow/devtool25784503?logo=twitter&style=for-the-badge" alt="devtool25784503" /></a> </p>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://devtools72.github.io/Personal-Portfolio/)
+- 🔭 I’m currently working on [My Personal Portfolio](https://davsubas.github.io/davsubas/)
 
-- 📫 How to reach me **https://devtools72.github.io/Personal-Portfolio/**
+- 📫 How to reach me **https://davsubas.github.io/davsubas/**
 
 - ⚡ Fun fact **I think I am Funny**
 
